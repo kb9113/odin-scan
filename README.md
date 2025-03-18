@@ -1,5 +1,5 @@
 ## Odin Scan
-A simple package to scan a formated string into varibales.\
+A simple package to scan a formated string into variables.\
 \
 For example suppose you want to scan a line in a wavefront object file into variables you can simply do this.
 ```odin
